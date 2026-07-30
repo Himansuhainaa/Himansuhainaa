@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Himansuhainaa
-- 👀 I’m interested in Robotics,AI,ML,startups,Entrepreneurship
-- 🌱 I’m currently learning Python,C++
+- 👀 I’m interested in Product Managemnt,AI,ML,Startups,Entrepreneurship
+- 
 - 💞️ I’m looking to collaborate on github,replit
-- 📫 How to reach me through gmail - extremaura00007@gmail.com
+- 📫 How to reach me through gmail - himansukumar00007@gmail.com
 
 <!---
 Himansuhainaa/Himansuhainaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
