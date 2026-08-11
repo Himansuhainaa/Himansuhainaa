@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himansuhainaa
-- 👀 I’m interested in Product Managemnt,AI,ML,Startups,Entrepreneurship
+- 👀 I’m interested in Product Managemnt,AI,ML,Software developement Startups,Entrepreneurship
 - 
 - 💞️ I’m looking to collaborate on github,replit
 - 📫 How to reach me through gmail - himansukumar00007@gmail.com
